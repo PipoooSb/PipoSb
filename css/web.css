@@ -1,0 +1,191 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+h1 {font-size: 32px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    background: #0000;
+    color: gold;
+    border-radius: 60px;
+    padding:
+}
+
+h2{
+    font-size: 32px;
+    background: #0000;
+    color: greenyellow;
+    
+}
+
+section {
+    
+}
+header {
+    background: ;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(../imagenes/comida-sana-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+body:before{
+    
+    position: fixed;
+    content: "";
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.8);
+    opacity: 0.7;
+    z-index: -1;
+}
+
+.cabeceraPagina{
+    padding-bottom: 50px;
+    font-size: 30px;
+    text-align: center;
+    border-style: solid solid none;
+    border-radius: 60px 60px 0px 0px;
+    background: rgba(0,0,0, );
+    border-color: blueviolet;
+        
+}
+.CocinasanayfacilH1{
+    margin-top: -100px
+    
+}
+
+tr {
+    tab-size:
+}
+h3{
+    color: aliceblue
+        
+}
+
+h2 {
+    text-align:left;
+    background: ;
+    color:green;
+    margin-left: 50px;
+        
+}
+
+.menu {
+    padding: 10px;
+    text-align: center;
+    background:: rgba (0,0,0 0.8);
+    border-style: none solid solid solid;
+    border-radius:0px 0px 100px 100px;
+    border-color: blueviolet;
+}
+
+.menu ul li {
+    font-size: 20px;
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    border-style: solid;
+    margin-right: 30px;
+    border-radius: 15px;
+    background: rgba(0,0,0 0.9);
+    box-shadow: 0px 0px 10px 4px blueviolet;
+    transition: all 1s;
+}
+
+.menu ul li:hover{
+    transition: all 1s;
+    background: purple;
+    color; rgb ;
+    border-color: blueviolet;
+    transform: scale(1.1);
+}
+
+.imagen--- {
+    width: %;
+    margin: px px;
+    border-radius: px;
+    border-style: ;
+    border-color: ;
+    
+}
+
+.contenido{
+    display: ;
+    padding: 30px;
+    margin-top: 20x;
+    
+}
+
+.articulo{
+    background: rgba(0,0,0 0.2);
+    font-size: 23px;
+    text-align: 10px;
+    border-style: ;
+    border-radius: ;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-right:10px ;
+    float: ;
+    padding: 35px;
+}
+
+.anuncio{
+    
+}
+    
+.piePagina{
+    margin-top: 40px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 60px 60px 60px 60px;
+    background: rgba(0,0,0 0.7);
+    padding: 20px;
+    border-color: blueviolet;
+}
+
+.menuPagina{
+    padding: 20px;
+}
+
+.menuPagina ul li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.menuPagina ul li:last-child{
+    float: right;
+}
+
+.menuPagina ul li img{
+    width: 80%;
+    opacity: 0.8;
+    transition: all 0.5s;
+}
+.menuPagina ul li img:hover {
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+.menuPegajoso{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition: all 1s;
+    background: rgba(0,0,0 1);
+    border-color: black;
+}
+ 
+.menuPegajoso{
+    border-color: blueviolet;
+    font-size: 30%;
+    background: black;
+}

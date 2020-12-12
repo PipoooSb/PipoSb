@@ -1,0 +1,247 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+h1 {font-size: 32px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    background: #0000;
+    color: gold;
+    border-radius: 60px;
+}
+
+h2{
+    color: greenyellow;
+    font-family: cursive;
+    background: #0000;
+    font-size: 32px;
+}
+
+.ola{
+    width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right
+}
+
+.panqueque{
+    margin-top: 20px;
+    margin-left: 12px;
+    
+}
+
+.panquequee {
+    margin-left:;
+    margin-top: 20px;
+}
+
+.galleton {
+    width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right
+}
+
+.ordenada{
+    margin-top: 20px;
+    margin-left: 12px;
+    
+}
+
+.ordenadaa {
+    margin-left:;
+    margin-top: 20px;
+}
+
+.choco{
+    width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right 
+}
+
+.chocoNa{
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.chocoNaa{
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.rollo {
+   width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right  
+}
+
+.canela {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.canelaa {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.titulon{
+    padding-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    border-style: solid solid none;
+    border-radius: 60px 60px 0px 0px;
+    background: rgba(0,0,0, );
+    border-color: blueviolet;
+}
+
+.titulon{
+    padding-bottom: 50px;
+    font-size: 30px;
+    text-align: center;
+    border-style: solid solid none;
+    border-radius: 60px 60px 0px 0px;
+    background: rgba(0,0,0, );
+    border-color: blueviolet;
+}
+
+.menuu{
+    padding: 10px;
+    text-align: center;
+    background:: rgba (0,0,0 0.8);
+    border-style: none solid solid solid;
+    border-radius:0px 0px 100px 100px;
+    border-color: blueviolet;
+}
+
+.menuu ul li{
+     font-size: 20px;
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    border-style: solid;
+    margin-right: 30px;
+    border-radius: 15px;
+    background: rgba(0,0,0 0.9);
+    box-shadow: 0px 0px 10px 4px blueviolet;
+    transition: all 1s;
+}
+
+.menuu ul li:hover{
+    transition: all 1s;
+    background: purple;
+    color; rgb ;
+    border-color: blueviolet;
+    transform: scale(1.1);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(../imagenes/comida-sana-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body:before{
+    
+    position: fixed;
+    content: "";
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.8);
+    opacity: 0.7;
+    z-index: -1;
+}
+
+.articuloo{
+    background: rgba(0,0,0 0.2);
+    font-size: 20px;
+    text-align: ;
+    border-style: ;
+    border-radius: ;
+    margin-left: px;
+    margin-top: 20px;
+    margin-right: ;
+    float: ;
+    padding: px;
+}
+
+.contenido{
+    display: ;
+    padding: 30px;
+    margin-top: 20x;
+}
+
+.footPag{
+    margin-top: 40px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 60px 60px 60px 60px;
+    background: rgba(0,0,0 0.7);
+    padding: 20px;
+    border-color: blueviolet;
+}
+
+.menuuPagina{
+    padding: 20px;
+}
+
+.menuuPagina ul li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.menuuPagina ul li:last-child{
+    float: right;
+}
+
+.menuuPagina ul li img{
+    width: 80%;
+    opacity: 0.8;
+    transition: all 0.5s;
+}
+.menuuPagina ul li img:hover {
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+.menuuPegajoso{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition: all 1s;
+    background: rgba(0,0,0 1);
+    border-color: black;
+}
+ 
+.menuuPegajoso{
+    border-color: blueviolet;
+    font-size: 30%;
+    background: black;
+}

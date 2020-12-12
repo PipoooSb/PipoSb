@@ -1,0 +1,249 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+h1 {font-size: 32px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    background: #0000;
+    color: gold;
+    border-radius: 60px;
+}
+
+h2{
+    color: greenyellow;
+    font-family: cursive;
+    background: #0000;
+    font-size: 32px;
+}
+
+.quesadilla{
+    width: 20%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 70px;
+    float: right
+}
+
+.queso{
+    margin-top: 20px;
+    margin-left: 12px;
+    
+}
+
+.quesoo {
+    margin-left:;
+    margin-top: 20px;
+}
+
+.Milanesas{
+    width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right
+}
+
+.MILANESAS {
+    margin-top: 20px;
+    margin-left: 12px;
+    
+}
+
+.MILANESAAS {
+    margin-top: 20px;
+    margin-left: 12px;
+    
+}
+
+.Pankk {
+    width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right
+}
+
+.pankeke {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.pankekee {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.dedos {
+    width: 15%;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 90px;
+    border-style: ;
+    border-color: red;  
+    border-radius: 75px;
+    float: right
+}
+
+.deditos {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+.deditoss {
+    margin-top: 20px;
+    margin-left: 12px;
+}
+
+
+.titulito{
+    padding-bottom: 50px;
+    font-size: 30px;
+    text-align: center;
+    border-style: solid solid none;
+    border-radius: 60px 60px 0px 0px;
+    background: rgba(0,0,0, );
+    border-color: blueviolet;
+}
+
+.titulon{
+    padding-bottom: 50px;
+    font-size: 30px;
+    text-align: center;
+    border-style: solid solid none;
+    border-radius: 60px 60px 0px 0px;
+    background: rgba(0,0,0, );
+    border-color: blueviolet;
+}
+
+.menuuu{
+    padding: 10px;
+    text-align: center;
+    background:: rgba (0,0,0 0.8);
+    border-style: none solid solid solid;
+    border-radius:0px 0px 100px 100px;
+    border-color: blueviolet;
+}
+
+.menuuu ul li{
+     font-size: 20px;
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    border-style: solid;
+    margin-right: 30px;
+    border-radius: 15px;
+    background: rgba(0,0,0 0.9);
+    box-shadow: 0px 0px 10px 4px blueviolet;
+    transition: all 1s;
+}
+
+.menuuu ul li:hover{
+    transition: all 1s;
+    background: purple;
+    color; rgb ;
+    border-color: blueviolet;
+    transform: scale(1.1);
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(../imagenes/comida-sana-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+body:before{
+    
+    position: fixed;
+    content: "";
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    background: rgba(0,0,0,0.8);
+    opacity: 0.7;
+    z-index: -1;
+}
+
+.articulooo{
+    background: rgba(0,0,0 0.2);
+    font-size: 20px;
+    text-align: ;
+    border-style: ;
+    border-radius: ;
+    margin-left: px;
+    margin-top: 20px;
+    margin-right: ;
+    float: ;
+    padding: px;
+}
+
+.contenidooo{
+    display: ;
+    padding: 30px;
+    margin-top: 20x;
+}
+
+.pataPag{
+    margin-top: 40px;
+    font-size: 20px;
+    border-style: solid;
+    border-radius: 60px 60px 60px 60px;
+    background: rgba(0,0,0 0.7);
+    padding: 20px;
+    border-color: blueviolet;
+}
+
+.menuuuPagina{
+    padding: 20px;
+}
+
+.menuuuPagina ul li{
+    list-style: none;
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.menuuuPagina ul li:last-child{
+    float: right;
+}
+
+.menuuuPagina ul li img{
+    width: 80%;
+    opacity: 0.8;
+    transition: all 0.5s;
+}
+.menuuuPagina ul li img:hover {
+    opacity: 1;
+    transform: scale(1.5);
+    transition: all 0.5s;
+}
+
+.menuuuPegajoso{
+    position: fixed;
+    width: 100%;
+    top: 0;
+    transition: all 1s;
+    background: rgba(0,0,0 1);
+    border-color: black;
+}
+ 
+.menuuuPegajoso{
+    border-color: blueviolet;
+    font-size: 30%;
+    background: black;
+}
